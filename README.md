@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ASP.NET
 - 📫 
 - 😄 
-- ⚡ Fun fact: Logics in my nerves
+- ⚡ Fun fact: Logics are in my nerves
 
 <!---
 MonikaMalikMor/MonikaMalikMor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
